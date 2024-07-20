@@ -19,8 +19,8 @@ h1 { text-align: center;
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	font-weight: bold;
 	-webkit-text-stroke: 1px var(---cor-de-fundo);
-		color:var(---branco);
-		text-shadow:
+	color:var(---branco);
+	text-shadow:
 	3px 3px 0 var(---cor-de-fundo),
 	-1px -1px 0 var(---cor-de-fundo),
 	1px -1px 0 var(---cor-de-fundo),
@@ -29,8 +29,8 @@ h1 { text-align: center;
 	
 	}
 
-body
-{ background: var(---cor-de-fundo);
+body{
+    background: var(---cor-de-fundo);
 	width: 100vw;
     color: var(---branco);
 }
@@ -39,13 +39,12 @@ body
    
     
     .exemplos{
-        background-color: var(---cor-de-fundo);
-       
+        background-color: var(---cor-de-fundo);   
         padding-left: 30px;
         font-family: var(---fonte-principal);
- padding: 30px;
- color: var(---branco);
- border-radius: 20px;
+        padding: 30px;
+        color: var(---branco);
+        border-radius: 20px;
     }
        
     
@@ -57,10 +56,11 @@ body
  background-color: var(---cinza);
  border-radius: 20px;
     }
+
     .imagem-1{
         width:50vw;
-            margin-left:50vw;
-            margin-top:-150px;
+        margin-left:50vw;
+        margin-top:-150px;
             
                   
                     
@@ -90,7 +90,7 @@ body
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        background-image: url('fundo.jpg');
+        background-image: url('img/fundo.jpg');
         padding: 1rem;
         color:var(---branco);
         font-family: var(---fonte-principal);
