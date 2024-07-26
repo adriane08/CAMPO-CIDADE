@@ -120,6 +120,8 @@ body{
 
 
  .explicacao .balanca{
+    display: block;
+    text-align: center;
     font-size: 30vw;
 
  }
