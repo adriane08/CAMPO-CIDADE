@@ -58,7 +58,6 @@ header { background: var(---cabecalho);
 	border: 6px solid #303829;
 	border-radius: 10px;
 	background-color: var(---branco);
-	margin-top: -160px;
 }
 
 .alternativas li:hover {
@@ -105,10 +104,10 @@ h1 { text-align: center;
 	}
 
  
- .frango{
+ /* .frango{
 	width: 30%;
 	margin-left: 60vw;
- } 
+ }  */
 
  h4
  {
