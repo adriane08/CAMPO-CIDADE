@@ -46,6 +46,7 @@ header { background: var(---cabecalho);
 }
 
 .alternativas li {
+	margin-top: -120px;
 	text-decoration: none;
 	display: inline-block;
 	text-align: center;
