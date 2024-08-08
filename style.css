@@ -177,4 +177,11 @@ h3{
 	   .alternativas li:hover h4 {
 		font-size: 85px;
 	}
+	imagem-rodape{
+		width: 1728px;
+	}
+	a{
+		font-size: 60px;
+	}
+
 }
