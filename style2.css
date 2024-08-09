@@ -139,5 +139,12 @@ body{
             display: flex;
             width:25vw;
          margin-top: -450px}
-     
+         .rodape-link{
+        width: 100vw;
+         }
+         .imagem-rodape{
+            width: 100vw;
+         }
+
+            
  }
