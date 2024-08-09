@@ -134,6 +134,10 @@ body{
        body{
         font-size: 30px;
     }
-    .imagem-1{
-        width:20vw;}
+   
+        .imagem-1{
+            display: flex;
+            width:25vw;
+         margin-top: -450px}
+     
  }
