@@ -125,3 +125,15 @@ body{
     font-size: 30vw;
 
  }
+
+
+ @media screen and (min-width: 1728px){
+
+    h1{
+		font-size:100px;
+	   }
+
+       .explicacao .balanca{
+        font-size: 15vw;
+       }
+ }
