@@ -136,4 +136,7 @@ body{
        .explicacao .balanca{
         font-size: 15vw;
        }
+       body{
+        font-size: 30px;
+    }
  }
